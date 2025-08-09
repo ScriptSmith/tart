@@ -9,10 +9,12 @@ Text art renderer for the terminal.
 
 ## Installation
 
+Follow the instructions at [rustup.rs](https://rustup.rs/) to install Rust.
+
+Then, you can install `tart` using Cargo:
+
 ```bash
-git clone https://github.com/ScriptSmith/tart.git
-cd tart
-cargo install --path .
+cargo install --git https://github.com/ScriptSmith/tart.git
 ```
 
 ## Usage
