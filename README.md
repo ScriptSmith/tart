@@ -2,6 +2,7 @@
 
 Text art renderer for the terminal.
 
+![art demo](./assets/banner.png)
 ## Installation
 
 ```bash
