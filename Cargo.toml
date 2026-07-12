@@ -3,6 +3,12 @@ name = "tart"
 version = "0.1.0"
 edition = "2021"
 license = "MIT"
+description = "Text art renderer for the terminal"
+repository = "https://github.com/ScriptSmith/tart"
+readme = "README.md"
+keywords = ["terminal", "ansi", "text-art", "ascii-art", "cli"]
+categories = ["command-line-utilities"]
+exclude = ["assets/", ".idea/"]
 
 
 [dependencies]
